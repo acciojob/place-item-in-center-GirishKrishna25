@@ -1,6 +1,13 @@
 /* Your CSS Code here. */
 body {
+  background-color: bisque;
+  height: 100vh;
+
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.item-1 {
+  background-color: aqua;
 }
